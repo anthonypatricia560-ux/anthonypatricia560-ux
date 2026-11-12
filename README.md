@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I’m Patricia Anthony 👋
 
-<!--
-**anthonypatricia560-ux/anthonypatricia560-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | Power BI | Microsoft Excel
 
-Here are some ideas to get you started:
+I’m an Agricultural Engineering graduate transitioning into Data Analytics. I enjoy working with data, exploring patterns and presenting findings through clear, interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m building my skills through practical projects and currently learning SQL.
+
+🛠️ Tools & Skills
+
+* Microsoft Excel
+* Microsoft Power BI
+* Data Cleaning and Preparation
+* Data Visualization
+* SQL (Currently Learning)
+
+📊 Featured Projects
+
+1. Customer Churn Analysis – TATNG Telecom Ltd
+Power BI project exploring customer churn patterns and retention.
+
+2. Pipe Thickness Loss Analysis and Condition Assessment
+Power BI project examining pipe thickness loss and material conditions.
+
+3. Emerald Properties – Conversion Rate Analysis and Automation Dashboard
+Excel project analyzing property sales and conversion performance.
+
+4. Furniture Sales Analysis
+Excel project exploring sales trends and product performance.
+
+🎓 Education
+
+B.Eng. Agricultural Engineering
+Akwa Ibom State University | 2023
+
+📜 Certification
+
+Certificate in Data Analytics – SkillAhead Academy
+
+📫 Connect With Me
+
+* LinkedIn
+* Email
+* GitHub Portfolio
